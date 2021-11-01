@@ -41,3 +41,19 @@ var3 +=5; //add 5, but quicker
 let var4 = 12;
 var4 = var4 * 3; //long way of multiplying variables
 var4 *=3; //short way of doing the same thing: multiply by 3
+
+let var5 = 12;
+var5 = var5 -7;
+var5-=7; //subtract 5, faster
+
+let var6=12;
+var6= var6/2; //divide by 2
+var6 /= 2; //divide by 2, faster
+
+// Other keywords
+const p1 = 3.14;
+const userName = "Sam";
+// const is a variable that you cannot change the value of
+
+var myX=7;
+//var is the old way of creating a variable
